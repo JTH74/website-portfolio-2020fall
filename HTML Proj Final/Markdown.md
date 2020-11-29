@@ -1,0 +1,1 @@
+For this final submission I primarily touched up some final details and organized code. I cleaned up some spacing with code. The primary thing was finishing the Event page. On the event page I added 2 links both linking to their respective event being Flex on Em and Flex on Em 2.  
